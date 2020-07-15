@@ -38,3 +38,7 @@ input{
 h1, h2, p{
     text-align: center;
 }
+
+h2{
+    font-weight: 100;
+}
