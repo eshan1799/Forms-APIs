@@ -25,3 +25,16 @@ function makeCard(e) {
 function formDisappear() {
     myForm.setAttribute("style", "display: none");
 }
+
+
+CSS:
+form{
+    text-align: center;
+}
+input{
+    margin: 25px auto;
+
+}
+h1, h2, p{
+    text-align: center;
+}
